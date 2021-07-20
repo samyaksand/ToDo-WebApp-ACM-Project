@@ -45,7 +45,7 @@
             {% if not task.complete %}
             <span>To be completed by {{task.date.date}}</span> {% endif %}
             <a class="delete-link" href="{% url 'task-delete' task.id %}">&#215;</a>
-            <span class="handle">&nbsp;&#10247;</span>
+            <!--<span class="handle">&nbsp;&#10247;</span>-->
         </div>
     </div>
 
