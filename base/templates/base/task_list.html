@@ -42,6 +42,8 @@
             <a href="{% url 'task-update' task.id %}">{{task}}</a> {% endif %}
         </div>
         <div class="task-controls">
+            {% if not task.complete %}
+            <span>To be completed by {{task.date.date}}</span> {% endif %}
             <a class="delete-link" href="{% url 'task-delete' task.id %}">&#215;</a>
             <span class="handle">&nbsp;&#10247;</span>
         </div>
