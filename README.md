@@ -23,3 +23,5 @@ This is a project done using Django framework, with User Registration, Login, Se
 
 ## To Display
 <img src="https://user-images.githubusercontent.com/62803746/127637584-36d0b6ed-c231-459b-8e39-62f9fa714cf5.png" width=500 />
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamyaksand%2FToDo-WebApp-ACM-Project&count_bg=%2379C83D&title_bg=%23000000&icon=realm.svg&icon_color=%232BB2FF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
